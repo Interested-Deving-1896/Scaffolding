@@ -1,39 +1,75 @@
+[update-readmes]   Mode: rewrite — migrating to template structure...
 # Scaffolding
 
-This repository contains the code for the following features.
- 
-## ASP.NET Scaffolding
-ASP.NET scaffolding: this can be used to generate boilerplate code for web apps to improve developer productivity
+[![Built with Ona](https://ona.com/build-with-ona.svg)](https://app.ona.com/#https://github.com/Interested-Deving-1896/Scaffolding)
 
-For more info on ASP.NET scaffolding, see the scaffolding readme here at [README](./src/Scaffolding/README.md)
+<!-- AI:start:what-it-does -->
+_Description pending._
+<!-- AI:end:what-it-does -->
 
-## `dotnet msidentity`
-This is a .NET tool which can be used to configure ASP.NET Core projects to use the [Microsoft identity platform](https://docs.microsoft.com/en-us/azure/active-directory/develop/). 
-The tool can be used to configure ASP.NET Core projects to authenticate with the Microsoft identity platform.
+## Architecture
 
-For more info on the `dotnet msidentity` tool, see the readme here at [README](./src/MSIdentityScaffolding/README.md)
+<!-- AI:start:architecture -->
+_Architecture documentation pending._
+<!-- AI:end:architecture -->
 
-## Contributing
+## Install
 
-We welcome contributions! Please see our [Contributing Guide](CONTRIBUTING.md) for details on:
-- Setting up your development environment
-- Understanding the repository structure
-- Making changes to templates and code
-- Testing your changes
-- Submitting pull requests
+<!-- Add installation instructions here. This section is yours — the AI will not modify it. -->
 
-For a quick start on building and testing, see [Getting Started](docs/Getting-Started.md).
+```bash
+git clone https://github.com/Interested-Deving-1896/Scaffolding.git
+cd Scaffolding
+```
 
-## Reporting security issues and bugs
+## Usage
 
-Security issues and bugs should be reported privately, via email, to the Microsoft Security Response Center (MSRC)  secure@microsoft.com. You should receive a response within 24 hours. If for some reason you do not, please follow up via email to ensure we received your original message. Further information, including the MSRC PGP key, can be found in the [Security TechCenter](https://technet.microsoft.com/en-us/security/ff852094.aspx).
+<!-- Add usage examples here. This section is yours — the AI will not modify it. -->
 
-## Related projects
+## Configuration
 
-These are some other repos for related projects:
-* [Microsoft Identity Web](https://github.com/AzureAD/microsoft-identity-web) - is a library which contains a set of reusable classes used in conjunction with ASP.NET Core for integrating with the [Microsoft identity platform](https://docs.microsoft.com/en-us/azure/active-directory/develop/) (formerly *Azure AD v2.0 endpoint*) and [AAD B2C](https://docs.microsoft.com/en-us/azure/active-directory-b2c/).
-* [EF Core](https://github.com/dotnet/efcore) - source for [Entity Framework Core](https://docs.microsoft.com/en-us/ef/core/)
+<!-- Document configuration options here. This section is yours — the AI will not modify it. -->
 
-## Code of conduct
+## CI
 
-See [CODE-OF-CONDUCT](./CODE-OF-CONDUCT.md)
+<!-- AI:start:ci -->
+_CI documentation pending._
+<!-- AI:end:ci -->
+
+## Mirror chain
+
+<!-- AI:start:mirror-chain -->
+This repo is maintained in [`Interested-Deving-1896/Scaffolding`](https://github.com/Interested-Deving-1896/Scaffolding) and mirrored through:
+
+```
+Interested-Deving-1896/Scaffolding  ──►  OpenOS-Project-OSP/Scaffolding  ──►  OpenOS-Project-Ecosystem-OOC/Scaffolding
+```
+
+Changes flow downstream automatically via the hourly mirror chain in
+[`fork-sync-all`](https://github.com/Interested-Deving-1896/fork-sync-all).
+Direct commits to OSP or OOC are detected and opened as PRs back to `Interested-Deving-1896`.
+<!-- AI:end:mirror-chain -->
+
+## Contributors
+
+<!-- AI:start:contributors -->
+_Contributors pending._
+<!-- AI:end:contributors -->
+
+## Origins
+
+<!-- AI:start:origins -->
+_Original project — no upstream fork._
+<!-- AI:end:origins -->
+
+## Resources
+
+<!-- AI:start:resources -->
+_No additional resource files found._
+<!-- AI:end:resources -->
+
+## License
+
+<!-- AI:start:license -->
+[MIT](https://github.com/Interested-Deving-1896/Scaffolding/blob/main/LICENSE) © 2026 [Interested-Deving-1896](https://github.com/Interested-Deving-1896)
+<!-- AI:end:license -->
